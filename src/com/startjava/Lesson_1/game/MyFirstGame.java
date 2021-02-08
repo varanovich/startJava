@@ -8,7 +8,7 @@ public class MyFirstGame {
                 System.out.println("Вы угадали ");
                 break;
             } else if(myNumber > computerNumber) {
-                System.out.println("Вы ошиблись  " + myNumber + "  число больше");
+                System.out.println("Вы ошиблись  " + myNumber + " число больше");
                 myNumber--;
             } else if(myNumber < computerNumber) {
                 System.out.println("Вы cнова ошиблись. " + myNumber + "  число меньше ");
