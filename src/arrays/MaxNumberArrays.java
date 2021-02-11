@@ -1,1 +1,0 @@
-package arrays;public class MaxNumberArrays {    public static void main(String[] args) {        int [] arrays = {2, 105, 16, 54};        int maxNumber = arrays[0];        for (int i = 0; i < arrays.length; i++) {            if (arrays[i] > maxNumber) {                maxNumber = arrays[i];            }        }        System.out.println(maxNumber);    }}
