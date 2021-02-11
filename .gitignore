@@ -1,1 +1,6 @@
 out
+*.class
+*.iml
+*.xml
+.idea
+.DS_Store

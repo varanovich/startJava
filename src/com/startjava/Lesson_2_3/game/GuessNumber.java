@@ -1,5 +1,7 @@
+package com.startjava.Lesson_2_3.game;
 import java.util.Scanner;
 import java.util.Random;
+
 public class GuessNumber {
     private Player playerOne;
     private Player playerTwo;

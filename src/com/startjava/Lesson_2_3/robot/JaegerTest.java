@@ -1,4 +1,4 @@
-package com.startjava.Lesson_2_3.JaegerTest
+package com.startjava.Lesson_2_3.robot;
 public class JaegerTest {
     public static void main(String[] args) {
         Jaeger jaegerOne = new Jaeger("Gipsy Avenger ", "red " , 260.0 , 1.980 , 7 , 8 , 6);

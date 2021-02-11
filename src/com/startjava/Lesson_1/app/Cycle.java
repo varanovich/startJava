@@ -1,3 +1,5 @@
+package com.startjava.Lesson_1.app;
+
 public class Cycle {
     public static void main(String[] args) {
         for (int j = 0; j < 21; j++) {
